@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.tex
+python101.slides.html
+output_*.png
