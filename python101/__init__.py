@@ -1,3 +1,5 @@
+""" Some package description.
+"""
 # the line below will enable the import below to be made from other packages:
 # from python101 import my_add
 from python101.math import add as my_add
