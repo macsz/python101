@@ -106,3 +106,5 @@ venv.bak/
 *.tex
 python101.slides.html
 output_*.png
+
+.DS_Store
